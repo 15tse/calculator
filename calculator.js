@@ -15,7 +15,7 @@ function div(a, b){
     if(b==0) {
         return"not valid"
     }
-return a/b
+return b/a
 }
 console.log("division",div(2,5))
 
